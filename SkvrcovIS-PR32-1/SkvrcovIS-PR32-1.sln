@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkvrcovIS-PR32-1", "SkvrcovIS-PR32-1.csproj", "{3BCEC61D-DA5E-4E29-8A70-18EBF9DE589E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "..\UnitTestProject1\UnitTestProject1.csproj", "{880425B8-9654-4C96-A1F8-7BDEAA524D8F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{3BCEC61D-DA5E-4E29-8A70-18EBF9DE589E} = {3BCEC61D-DA5E-4E29-8A70-18EBF9DE589E}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BCEC61D-DA5E-4E29-8A70-18EBF9DE589E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BCEC61D-DA5E-4E29-8A70-18EBF9DE589E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BCEC61D-DA5E-4E29-8A70-18EBF9DE589E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BCEC61D-DA5E-4E29-8A70-18EBF9DE589E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880425B8-9654-4C96-A1F8-7BDEAA524D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880425B8-9654-4C96-A1F8-7BDEAA524D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880425B8-9654-4C96-A1F8-7BDEAA524D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880425B8-9654-4C96-A1F8-7BDEAA524D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {870459CA-E062-459A-9302-1F548F03836C}
+	EndGlobalSection
+EndGlobal

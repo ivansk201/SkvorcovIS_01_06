@@ -1,0 +1,7 @@
+C:\Users\307-05\Desktop\sk\SkvrcovIS-PR32-1\obj\Debug\SkvrcovIS-PR32-1.csproj.AssemblyReference.cache
+C:\Users\307-05\Desktop\sk\SkvrcovIS-PR32-1\obj\Debug\SkvrcovIS-PR32-1.csproj.CoreCompileInputs.cache
+C:\Users\307-05\Desktop\sk\SkvrcovIS-PR32-1\bin\Debug\SkvrcovIS-PR32-1.exe.config
+C:\Users\307-05\Desktop\sk\SkvrcovIS-PR32-1\bin\Debug\SkvrcovIS-PR32-1.exe
+C:\Users\307-05\Desktop\sk\SkvrcovIS-PR32-1\bin\Debug\SkvrcovIS-PR32-1.pdb
+C:\Users\307-05\Desktop\sk\SkvrcovIS-PR32-1\obj\Debug\SkvrcovIS-PR32-1.exe
+C:\Users\307-05\Desktop\sk\SkvrcovIS-PR32-1\obj\Debug\SkvrcovIS-PR32-1.pdb
